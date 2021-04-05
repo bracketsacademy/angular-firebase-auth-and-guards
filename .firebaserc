@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-fire-auth-guard": {
+      "hosting": {
+        "ang-route-block": [
+          "angular-fire-auth-guard"
+        ]
+      }
+    }
+  }
+}

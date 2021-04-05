@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: true,
+  firebaseConfig: {
+    /* paste your FB config here */
+  }
 };
